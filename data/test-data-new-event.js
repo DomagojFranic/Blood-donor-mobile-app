@@ -1,0 +1,27 @@
+import NewEvent from '../models/NewEvent'
+
+export const NEW_EVENTS = [
+  new NewEvent (0, new Date(2022, 8, 6), "DDK GDCK Split, DDK Torcida Brda", "Prostorije ŠRC Brda", "Bilaje 1, 21292 Srinjine", "09:00-12:00"),
+  new NewEvent (1, new Date(2022, 8, 8), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (2, new Date(2022, 8, 9), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (3, new Date(2022, 8, 10), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-19:00"),
+  new NewEvent (4, new Date(2022, 8, 11), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-19:00"),
+  new NewEvent (5, new Date(2022, 8, 12), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (6, new Date(2022, 8, 15), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (7, new Date(2022, 8, 16), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (8, new Date(2022, 8, 17), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-19:00"),
+  new NewEvent (9, new Date(2022, 8, 18), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-19:00"),
+  new NewEvent (10, new Date(2022, 8, 19), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (11, new Date(2022, 8, 20), "DDK GDCK Split, DDK Srinjine", "OŠ Srinjine", "Bilaje 1, 21292 Srinjine", "09:00-11:00"),
+  new NewEvent (12, new Date(2022, 8, 20), "DDK GDCK Split, Kila", "GK Mejaši", "Vrboran 19A, 21000 Split", "12:00-14:00"),
+  new NewEvent (13, new Date(2022, 8, 22), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (14, new Date(2022, 8, 23), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (15, new Date(2022, 8, 24), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-19:00"),
+  new NewEvent (16, new Date(2022, 8, 25), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-19:00"),
+  new NewEvent (17, new Date(2022, 8, 26), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (18, new Date(2022, 8, 27), "DDK GDCK Split, Torcida Stobreč & općina Podstrana", "OŠ Stobreč", "Ivankova 13, 21000 Split", "09:00-13:00"),
+  new NewEvent (19, new Date(2022, 8, 29), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (20, new Date(2022, 8, 30), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-15:00"),
+  new NewEvent (21, new Date(2022, 8, 31), "KBC Split", "Odjel za transfuziju KBC-a Split", "Spinčićeva 1, 21000 Split", "07:30-19:00"),
+  new NewEvent (22, new Date(2022, 8, 31), "KBC DDK GDCK Split, DDK Mertojak", "DDK Mertojak", "Doverska 17, 21000 Split", "08:00-14:00"),
+]
